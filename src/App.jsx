@@ -18,8 +18,8 @@ function App() {
         <Hero />
         <About />
         <Education />
-        <Projects />
         <Experience />
+        <Projects />
         {/* <Testimonials /> */}
         <Certifications />
         <ArtGallery />
