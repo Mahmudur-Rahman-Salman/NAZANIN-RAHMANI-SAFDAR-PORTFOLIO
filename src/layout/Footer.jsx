@@ -3,12 +3,12 @@ import { FaLinkedin, FaInstagram } from "react-icons/fa";
 const socialLinks = [
   {
     icon: FaLinkedin,
-    href: "#",
+    href: "https://www.linkedin.com/in/nazanin-rahmani-safdar-55aa40366",
     label: "LinkedIn",
   },
   {
     icon: FaInstagram,
-    href: "#",
+    href: "https://www.instagram.com/ashlin_t_t?igsh=aGJkZ2p1N244OHp3",
     label: "Instagram",
   },
 ];
