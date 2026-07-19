@@ -3,27 +3,27 @@ import React from "react";
 const ArtGallery = () => {
   const artworks = [
     {
-      image: "/public/Arts/image 1.jpeg",
+      image: "/Arts/image 1.jpeg",
       alt: "Portrait sketch",
     },
     {
-      image: "/public/Arts/image 2.jpeg",
+      image: "/Arts/image 2.jpeg",
       alt: "Landscape painting",
     },
     {
-      image: "/public/Arts/image 3.jpeg",
+      image: "/Arts/image 3.jpeg",
       alt: "Charcoal drawing",
     },
     {
-      image: "/public/Arts/image 4.jpeg",
+      image: "/Arts/image 4.jpeg",
       alt: "Abstract artwork",
     },
     {
-      image: "/public/Arts/image 5.jpeg",
+      image: "/Arts/image 5.jpeg",
       alt: "Still life painting",
     },
     {
-      image: "/public/Arts/image 6.jpeg",
+      image: "/Arts/image 6.jpeg",
       alt: "Pencil illustration",
     },
   ];
