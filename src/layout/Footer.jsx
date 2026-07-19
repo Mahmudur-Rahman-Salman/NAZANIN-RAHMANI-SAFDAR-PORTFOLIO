@@ -20,7 +20,7 @@ const footerLinks = [
   { href: "#projects", label: "Projects" },
   { href: "#contact", label: "Contact" },
   { href: "#certifications", label: "Certifications" },
-  { href: "#art-gallery", label: "Art Gallery" },
+  { href: "#artgallery", label: "Art Gallery" },
 ];
 
 export const Footer = () => {

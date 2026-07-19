@@ -28,7 +28,7 @@ const ArtGallery = () => {
     },
   ];
   return (
-    <section id="art" className="py-32 relative overflow-hidden">
+    <section id="artgallery" className="py-32 relative overflow-hidden">
       {/* Background Glow */}
       <div className="absolute top-1/4 left-0 w-80 h-80 bg-primary/5 rounded-full blur-3xl" />
       <div className="absolute bottom-0 right-0 w-96 h-96 bg-primary/5 rounded-full blur-3xl" />
