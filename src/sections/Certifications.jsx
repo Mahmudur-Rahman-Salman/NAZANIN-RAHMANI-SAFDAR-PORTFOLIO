@@ -4,7 +4,7 @@ const Certifications = () => {
   const certifications = [
     {
       title: "Inbound Certified",
-      image: "/public/certificates/certificate 1.jpeg",
+      image: "/certificates/certificate 1.jpeg",
       description:
         "The bearer of this certificate is hereby deemed capable and skilled in the methodology of inbound. They have been tested on best practices and are capable of applying them to develop a flywheel business model that attracts, engages, and delights prospects and customers.",
       issuer: "HubSpot Academy",
@@ -12,7 +12,7 @@ const Certifications = () => {
     },
     {
       title: "DIGITAL MARKETING CERTIFICATION ",
-      image: "/public/certificates/certificate 2.jpeg",
+      image: "/certificates/certificate 2.jpeg",
       description:
         "The bearer of this certificate has successfully proven that they are fully capable and skilled in applying digital marketing techniques. They have been tested on best practices and have signified experience managing digital marketing campaigns, conducting keyword research, making data-driven decisions relative to revenues and profits, and making report-based strategy adjustments.",
       issuer: "Stukent",
@@ -21,7 +21,7 @@ const Certifications = () => {
     },
     {
       title: "Generative AI for Digital Marketers",
-      image: "/public/certificates/certificate 3.jpeg",
+      image: "/certificates/certificate 3.jpeg",
       description:
         "The bearer of this certificate has successfully proven that they are fully capable and skilled in applying generative AI techniques to digital marketing. They have been tested on best practices and have signified experience managing digital marketing campaigns, conducting keyword research, making data-driven decisions relative to revenues and profits, and making report-based strategy adjustments. ",
       issuer: "Linkedin Learning",
@@ -30,7 +30,7 @@ const Certifications = () => {
     },
     {
       title: "How to Research and Write Using Generative AI Tools (2023)",
-      image: "/public/certificates/certificate 4.jpeg",
+      image: "/certificates/certificate 4.jpeg",
       description:
         "The bearer of this certificate has successfully proven that they are fully capable and skilled in applying generative AI techniques to research and writing. They have been tested on best practices and have signified experience managing digital marketing campaigns, conducting keyword research, making data-driven decisions relative to revenues and profits, and making report-based strategy adjustments. ",
       verify:
